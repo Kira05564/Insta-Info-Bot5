@@ -41,7 +41,7 @@ Insta-Info-Bot is a Telegram bot that allows users to fetch detailed information
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Insta-Info-Bot.git
+   git clone https://github.com/Anon4You/Insta-Info-Bot.git
    cd Insta-Info-Bot
    ```
 
