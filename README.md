@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Created by
 
-* [Alienkrishn](https://t.me/Alienkrishn)
+* [@Titan_hunter_Levi]
 
 ---
 
